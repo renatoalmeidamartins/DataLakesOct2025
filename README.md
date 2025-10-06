@@ -16,3 +16,4 @@
 - [Redshift Spectrum](https://docs.aws.amazon.com/redshift/latest/dg/c-getting-started-using-spectrum.html)
 - [The Hitchhiker's Guide to the Data Lake](https://azure.github.io/Storage/docs/analytics/hitchhikers-guide-to-the-datalake/) - this is an Azure-oriented article. Just replace ADLSGen2 with S3, and that could be on AWS
 - [Medallion architecture](https://docs.databricks.com/aws/en/lakehouse/medallion)
+- [Data protection in S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/DataDurability.html), look at the 11-nines for durability and 4-nines for availability
