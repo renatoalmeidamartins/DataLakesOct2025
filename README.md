@@ -8,6 +8,16 @@
 - [Data Analytics on AWS - Part 2](https://skillbuilder.aws/learn/3CYAKC9X7J/fundamentals-of-analytics-on-aws--part-2/PSWJMV61JC)
 - [AWS Technical essentials](https://skillbuilder.aws/learn/K8C2FNZM6X/aws-technical-essentials/N7Q3SXQCDY)
 
+## Class evaluation
+- Go to [aws.training](https://www.aws.training/)
+- Click sign in, log in with the same account you used to access the lab and course materials
+- Then go on the top right to My Account, then transcript, click on the Archived section (direct link [https://www.aws.training/Account/Transcript/Archived](https://www.aws.training/Account/Transcript/Archived)
+- You should see the class, with a button to evaluate
+
+## Contact details
+- email: renatoalmeidamartins@gmail.com
+- [Linkedin profile](https://www.linkedin.com/in/renatodealmeidamartins/)
+
 ## Class links
 - [Data Management at Scale](https://www.amazon.com/Data-Management-Scale-Enterprise-Architecture/dp/149205478X)
 - [Data Zone](https://aws.amazon.com/datazone/)
@@ -30,3 +40,6 @@
 - [Defining permissions for the LF personas](https://docs.aws.amazon.com/lake-formation/latest/dg/permissions-reference.html)
 - [LF permission reference](https://docs.aws.amazon.com/lake-formation/latest/dg/lf-permissions-reference.html)
 - [Tag-based access control](https://docs.aws.amazon.com/lake-formation/latest/dg/tag-based-access-control.html)
+- [Data mesh architecture using AWS](https://aws.amazon.com/blogs/big-data/design-a-data-mesh-architecture-using-aws-lake-formation-and-aws-glue/)
+- [Data zone for enabling a data mesh](https://aws.amazon.com/blogs/aws/amazon-datazone-now-generally-available-collaborate-on-data-projects-across-organizational-boundaries/)
+- [Best practices for cross-account data sharing](https://docs.aws.amazon.com/lake-formation/latest/dg/cross-account-notes.html)
