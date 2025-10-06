@@ -20,3 +20,6 @@
 - [Strong read-after-write consistency](https://aws.amazon.com/blogs/aws/amazon-s3-update-strong-read-after-write-consistency/)
 - [Zero-ETL integrations in Glue](https://docs.aws.amazon.com/glue/latest/dg/zero-etl-using.html)
 - [Data sources supported by the glue crawler](https://docs.aws.amazon.com/glue/latest/dg/crawler-data-stores.html)
+- [Storage Best Practices for Data and Analytics Applications](https://docs.aws.amazon.com/whitepapers/latest/building-data-lakes/building-data-lake-aws.html)
+- [Reducing data encryption costs by using S3 bucket key](https://aws.amazon.com/blogs/storage/reducing-aws-key-management-service-costs-by-up-to-99-with-s3-bucket-keys/)
+- [Enforcing encryption in transit for S3](https://repost.aws/knowledge-center/s3-enforce-modern-tls)
