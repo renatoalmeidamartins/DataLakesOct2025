@@ -27,3 +27,5 @@
 - [Athena DDL](https://docs.aws.amazon.com/athena/latest/ug/ddl-reference.html)
 - [Macie sensitive data categories](https://docs.aws.amazon.com/macie/latest/user/mdis-reference.html)
 - [Macie custom data identifiers](https://docs.aws.amazon.com/macie/latest/user/custom-data-identifiers.html?icmpid=docs_macie_help_panel)
+- [Defining permissions for the LF personas](https://docs.aws.amazon.com/lake-formation/latest/dg/permissions-reference.html)
+- [LD permission reference](https://docs.aws.amazon.com/lake-formation/latest/dg/lf-permissions-reference.html)
