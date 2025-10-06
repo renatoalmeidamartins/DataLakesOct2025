@@ -18,3 +18,5 @@
 - [Medallion architecture](https://docs.databricks.com/aws/en/lakehouse/medallion)
 - [Data protection in S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/DataDurability.html), look at the 11-nines for durability and 4-nines for availability
 - [Strong read-after-write consistency](https://aws.amazon.com/blogs/aws/amazon-s3-update-strong-read-after-write-consistency/)
+- [Zero-ETL integrations in Glue](https://docs.aws.amazon.com/glue/latest/dg/zero-etl-using.html)
+- [Data sources supported by the glue crawler](https://docs.aws.amazon.com/glue/latest/dg/crawler-data-stores.html)
