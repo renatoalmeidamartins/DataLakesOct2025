@@ -11,3 +11,6 @@
 ## Class links
 - [Data Management at Scale](https://www.amazon.com/Data-Management-Scale-Enterprise-Architecture/dp/149205478X)
 - [Data Zone](https://aws.amazon.com/datazone/)
+- [AWS DMS walkthroughs](https://docs.aws.amazon.com/dms/latest/sbs/dms-sbs-welcome.html)
+- [AWS Data Exchange catalog](https://aws.amazon.com/marketplace/search/results?ref_=adx_hp_hr_brw&trk=adx_hp_hr_brw&category=d5a43d97-558f-4be7-8543-cce265fe6d9d&FULFILLMENT_OPTION_TYPE=DATA_EXCHANGE&filters=FULFILLMENT_OPTION_TYPE)
+- [Redshift Spectrum](https://docs.aws.amazon.com/redshift/latest/dg/c-getting-started-using-spectrum.html)
