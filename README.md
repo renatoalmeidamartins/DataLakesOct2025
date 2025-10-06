@@ -23,3 +23,4 @@
 - [Storage Best Practices for Data and Analytics Applications](https://docs.aws.amazon.com/whitepapers/latest/building-data-lakes/building-data-lake-aws.html)
 - [Reducing data encryption costs by using S3 bucket key](https://aws.amazon.com/blogs/storage/reducing-aws-key-management-service-costs-by-up-to-99-with-s3-bucket-keys/)
 - [Enforcing encryption in transit for S3](https://repost.aws/knowledge-center/s3-enforce-modern-tls)
+- [Athena Federated Query](https://docs.aws.amazon.com/athena/latest/ug/federated-queries.html)
