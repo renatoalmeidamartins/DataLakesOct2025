@@ -4,6 +4,6 @@
 <img src="./lab-login.jpg" alt="login options" width="300" height="300"/>
 
 ## Expected pre-requisites
-- [Data ANalytics on AWS - Part 1](https://skillbuilder.aws/learn/UBHK3M9YGK/fundamentals-of-analytics-on-aws--part-1/6W9DN7W5JG)
-- [Data ANalytics on AWS - Part 2](https://skillbuilder.aws/learn/3CYAKC9X7J/fundamentals-of-analytics-on-aws--part-2/PSWJMV61JC)
+- [Data Analytics on AWS - Part 1](https://skillbuilder.aws/learn/UBHK3M9YGK/fundamentals-of-analytics-on-aws--part-1/6W9DN7W5JG)
+- [Data Analytics on AWS - Part 2](https://skillbuilder.aws/learn/3CYAKC9X7J/fundamentals-of-analytics-on-aws--part-2/PSWJMV61JC)
 - [AWS Technical essentials](https://skillbuilder.aws/learn/K8C2FNZM6X/aws-technical-essentials/N7Q3SXQCDY)
