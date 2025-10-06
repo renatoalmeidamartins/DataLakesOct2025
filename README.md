@@ -26,3 +26,4 @@
 - [Athena Federated Query](https://docs.aws.amazon.com/athena/latest/ug/federated-queries.html)
 - [Athena DDL](https://docs.aws.amazon.com/athena/latest/ug/ddl-reference.html)
 - [Macie sensitive data categories](https://docs.aws.amazon.com/macie/latest/user/mdis-reference.html)
+- [Macie custom data identifiers](https://docs.aws.amazon.com/macie/latest/user/custom-data-identifiers.html?icmpid=docs_macie_help_panel)
